@@ -1,3 +1,4 @@
+
 public class Variable {
     public double price1(){
         return price;
